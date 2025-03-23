@@ -1,4 +1,4 @@
-In this project i     have performed push and pull operations using git bash.
-The git push command       is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo.    After git pushes the changes to the remote repository other developers can access the changes and they can contribute their changes by git pulling.
-An SSH key for GitHub is a way     to log in to GitHub without needing to enter your username and password each time. Push transfer the committed changes   from local repository to global repository updates from remote repository.
+In this project i have performed push and pull operations using git bash.
+The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo.  After git pushes the changes to the remote repository other developers can access the changes and they can contribute their changes by git pulling.
+An SSH key for GitHub is a way to log in to GitHub without needing to enter your username and password each time. Push transfer the committed changes from local repository to global repository updates from remote repository.
 hello trial
