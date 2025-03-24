@@ -1,1 +1,4 @@
 project overview.txt
+*.log
+* nodejs_modules/
+*.env
