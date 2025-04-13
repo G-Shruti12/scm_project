@@ -1,0 +1,17 @@
+name: Welcome Workflow
+
+on:
+  push:
+    branches:
+      - main
+      - new-branch
+
+jobs:
+  welcome-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Display welcome message
+        run: echo "Welcome to the repository! The workflow is triggered."
